@@ -24,13 +24,13 @@
 	},
 	"ResourceModules": {
 		"ext.SimpleMathJax": {
-			"scripts": ["ext.SimpleMathJax.js"],
+			"scripts": ["resources/ext.SimpleMathJax.js"],
 			"targets": ["desktop", "mobile"]
 		}
 	},
 	"ResourceFileModulePaths": {
 		"localBasePath": "",
-		"remoteExtPath": "SimpleMathJax/resources"
+		"remoteExtPath": "SimpleMathJax"
 	},
 	"manifest_version": 2
 }
